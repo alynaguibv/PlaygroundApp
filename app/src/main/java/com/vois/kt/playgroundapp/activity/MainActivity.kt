@@ -1,11 +1,8 @@
 package com.vois.kt.playgroundapp.activity
 
-import android.app.ActivityManager
 import android.os.Bundle
 import android.os.Handler
-import android.os.Looper
 import android.os.Message
-import android.util.Log
 import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
