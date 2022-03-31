@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PlaygroundApp</string>
+    <string name="default_random_images">Default Random Images</string>
+    <string name="start_worker">Start Worker</string>
+    <string name="user_image">userImage</string>
+    <string name="notify_fragment">Notify Fragment</string>
+    <string name="notify_all">Notify All</string>
+    <string name="gson_test_json_path"><![CDATA[Gson Test& Json Path]]></string>
+    <string name="test_hashmap_objects">Test HashMap Objects</string>
+    <string name="test_sparse_array_objects">Test Sparse Array Objects</string>
+    <string name="send_to_activity">Send To Activity</string>
+    <string name="stop_worker">Stop Worker</string>
+    <string name="modified_random_images">Modified Random Images</string>
+    <!-- A comment to eat -->
+    <eat-comment/>
+    <integer-array name="default_drawables">
+        <item>@drawable/antoine_beauvillain</item>
+        <item>@drawable/vincent_van_zalinge</item>
+        <item>@drawable/toni_lluch</item>
+        <item>@drawable/simon_berger</item>
+        <item>@drawable/sergio_rota</item>
+        <item>@drawable/roberto_nickson</item>
+        <item>@drawable/raimond_klavins01</item>
+        <item>@drawable/raimond_klavins</item>
+        <item>@drawable/nick_fewings</item>
+        <item>@drawable/mick_haupt_10mb</item>
+        <item>@drawable/mick_haupt01_6mb</item>
+        <item>@drawable/luis_poletti</item>
+        <item>@drawable/mark_harpur_4mb</item>
+        <item>@drawable/luca_bravo_o4iufs</item>
+        <item>@drawable/kenneth_thewissen_5mb</item>
+        <item>@drawable/joshua_hoehne</item>
+        <item>@drawable/jonatan_lewczuk</item>
+        <item>@drawable/johann_siemens</item>
+        <item>@drawable/isaac_sloman_4mb</item>
+        <item>@drawable/gabriel_garcia_marengo_7mb</item>
+        <item>@drawable/drew_bae_3mb</item>
+        <item>@drawable/david_marcu</item>
+        <item>@drawable/darrel_collins</item>
+        <item>@drawable/carlos_quintero</item>
+        <item>@drawable/boxed_water</item>
+    </integer-array>
+</resources>

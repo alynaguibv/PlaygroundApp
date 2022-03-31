@@ -1,0 +1,1376 @@
+{
+  "cancelContractHotline": "08005051870",
+  "postpaid100MBExpirationIntervalInHours": 2,
+  "hideMobilePaymentOption": true,
+  "phoneNumbers": {
+  },
+  "urlsList": [
+    {
+      "urlKey": "dunningBillURL",
+      "urlValue": "https://www.vodafone.de/meinvodafone/services/ihre-rechnungen?accordion=kontouebersicht&c_id=app_cad_dunning"
+    },
+    {
+      "urlKey": "netzAssistantCableFallbackUrl",
+      "urlValue": "https://www.vodafone.de/meinvodafone/public/netzassistent/review?product=cable&forApp=true"
+    },
+    {
+      "urlKey": "netzAssistantDSLFallbackUrl",
+      "urlValue": "https://www.vodafone.de/meinvodafone/public/netzassistent/review?product=dsl&forApp=true"
+    },
+    {
+      "urlKey": "addContractForgetCustomerPasswordUrl",
+      "urlValue": "https://www.vodafone.de/infofaxe/265.pdf"
+    },
+    {
+      "urlKey": "forgotPasswordUrl",
+      "urlValue": "https://www.vodafone.de/meinvodafone/account/login/zugangsdaten_vergessen"
+    },
+    {
+      "urlKey": "registerationUrl",
+      "urlValue": "https://www.vodafone.de/meinvodafone/account/registrierung/registrierungsart"
+    },
+    {
+      "urlKey": "contactUserSupportUrl",
+      "urlValue": "https://www.vodafone.de/kontakt"
+    },
+    {
+      "urlKey": "unityMediaUrl",
+      "urlValue": "https://www.vodafone.de/meinvodafone/account/login"
+    },
+    {
+      "urlKey": "androidCallyaUrl",
+      "urlValue": "market://details?id=de.vodafone.callyaflex"
+    },
+    {
+      "urlKey": "iOSCallyaUrl",
+      "urlValue": "https://itunes.apple.com/de/app/callya-flex/id1225229891?mt=8"
+    },
+    {
+      "urlKey": "simPukHelpBtnUrl",
+      "urlValue": "https://www.vodafone.de/hilfe/sicherheit/pin-und-puk.html?c_id=app_cad_tariff&forApp=true"
+    },
+    {
+      "urlKey": "meinVodafoneDataPrivacyUrl",
+      "urlValue": "https://www.vodafone.de/unternehmen/soziale-verantwortung/datenschutz-mv-app.html"
+    },
+    {
+      "urlKey": "simSwapHelpBtnUrl",
+      "urlValue": "https://www.vodafone.de/hilfe/alles-zur-sim-karte.html?esim=1&c_id=app_cad_tariff&forApp=true"
+    },
+    {
+      "urlKey": "simActivationHelpBtnUrl",
+      "urlValue": "https://www.vodafone.de/hilfe/mobiles-telefonieren/esim.html?c_id=app_cad_tariff&forApp=true"
+    },
+    {
+      "urlKey": "onlineTopupUrl",
+      "urlValue": "https://www.vodafone.de/meinvodafone/account/payment"
+    },
+    {
+      "urlKey": "onlineShopUrl",
+      "urlValue": "https://www.vodafone.de/privat/vertragsverlaengerung/vvl-consumer-alle-smartphones-tarife.html?tariffId=&deviceId=&c_id=app_clickcell_vvl&j_id=AppConPerA01V%7CNonNon000&b_id=1653&void=33333887&forApp=true"
+    },
+    {
+      "urlKey": "baseImageUrl",
+      "urlValue": "https://media.vodafone.de/www/images/app/"
+    },
+    {
+      "urlKey": "activateBillUrl",
+      "urlValue": "https://www.vodafone.de/meinvodafone/services/ihre-rechnungen?accordion=bill-settings"
+    },
+    {
+      "urlKey": "billHelpUrl",
+      "urlValue": "https://www.vodafone.de/hilfe/rechnung.html?forApp=true"
+    },
+    {
+      "urlKey": "billSubscreptionHelpUrl",
+      "urlValue": "https://payments.vodafone.com/de/subscriptions"
+    }
+  ],
+  "packageDescriptions": {
+    "AlwaysOn": "AlwaysOn",
+    "flatIdentifier": "Verbrauchte",
+    "redPlus": "Red+",
+    "highspeedData": "Highspeed-Volumen national"
+  },
+  "packageSocs": {
+    "prepaid_zeroRatingSoc": "APPVOLDEB",
+    "prepaid_unlimited4GSoc": "40933",
+    "postpaid_redeem_voucher_soc2": "MRK_GSAP",
+    "postpaid_redeem_voucher_soc1": "MRKBEGSAP",
+    "postpaid_zeroRatingSoc": "APPVOLCRE",
+    "postpaid_unlimited4GSoc": "APP4GSAT"
+  },
+  "miscIdentifiers": {
+    "prepaidDataIdentifier": "mb",
+    "prepaidBonusIdentifier": "bonus",
+    "dealerCode": "33333887",
+    "quickCheckFlatIdentifier": "Flat"
+  },
+  "miscIdentifiersList": {
+    "whitelisted_domains": [
+      "vodafone.de",
+      "vodafone.com",
+      "paypal.com",
+      "klarna.com",
+      "www.sofort.com",
+      "sofort.com",
+      "www.adyen.com",
+      "adyen.com",
+      "nebula-cdn.kampyle.com",
+      "www.amazon.de",
+      "amazon.de",
+      "pay.amazon.de",
+      "pay.amazon.com",
+      "www.amazon.com",
+      "amazon.com",
+      "braintreegateway.com",
+      "www.paypalobjects.com"
+    ],
+    "speedGoStatuses": {
+      "threshold_is_exceeded": [
+        "BARASBBC3"
+      ],
+      "deactivated": [
+        "BARASBBC",
+        "BARASBBC2",
+        "SO_BARASB"
+      ]
+    },
+    "prepaid_callyaDigitalSocs": [
+      "45500"
+    ],
+    "mnpBlackList": [
+      "MP_HOTL"
+    ],
+    "enjoyMoreIdentifiers": [
+      "Vodafone Pässe",
+      "Vodafone Pass im EU-Ausland"
+    ],
+    "postpaid_gigaBoostSocs": [
+      "SRB5LY60"
+    ],
+    "validityDateBlackListIdentifiers": [
+      "AlwaysOn-Volumen im Inland",
+      "AlwaysOn",
+      "dummySocs",
+      "Aktion 100 GB"
+    ],
+    "validityDateOneDayListIdentifiers": [
+      "DayBoost DE",
+      "GigaGarantie",
+      "dummySoc11",
+      "DataPush DE",
+      "DataPush EU",
+      "MinutenPaket EU Tag"
+    ],
+    "highspeedIdentifiers": [
+      "Datenvolumen Ihrer Red+",
+      "Datenvolumen Inland",
+      "Highspeed-Volumen national"
+    ],
+    "prepaidFlexPlanIdentifiers": [
+      "diy-package"
+    ],
+    "prepaid_zeroRatingSocs": [
+      "40815",
+      "APPVOLDEB"
+    ],
+    "webview_cookies": [
+      "app-web-cookie",
+      "umdid",
+      "mint-sso-token",
+      "mint-session-id",
+      "mint",
+      "JSESSIONID",
+      "VFMobileSession",
+      "X-Vfcid",
+      "X-Up-Calling-Line-Id",
+      "X-KKW-Validated",
+      "X-VF-bshoptoken",
+      "MDDKeks",
+      "simplicity-draft",
+      "onelogin-draft",
+      "AMCV_AE8901AC513145B60A490D4C%40AdobeOrg",
+      "AMCVS_AE8901AC513145B60A490D4C%40AdobeOrg",
+      "s_ecid",
+      "s_fid",
+      "s_nr30",
+      "s_pers",
+      "s_sess",
+      "AAMC_vfde_0",
+      "demdex",
+      "at_check",
+      "mbox",
+      "et_gk",
+      "et_uk",
+      "exactag_new_gk",
+      "exactag_new_uk",
+      "exactag_new_user",
+      "session_session",
+      "kampyle_userid",
+      "kampyleInvitePresented",
+      "kampylePageLoadedTimestamp",
+      "kampyleSessionPageCounter",
+      "kampyleUserPercentile",
+      "kampyleUserSession",
+      "kampyleUserSessionsCount",
+      "mdigital_alternative_uuid",
+      "VF-BINS",
+      "VF-OPT",
+      "VF-SID",
+      "VF-UUID",
+      "AMP-CONSENT",
+      "utag_main",
+      "adv_dc_rtg_cntrl",
+      "adv_et_entry",
+      "adv_exactag_aff",
+      "adv_exactag_qwt",
+      "adv_flow_step",
+      "adv_la_sid",
+      "adv_mf_group",
+      "adv_session_pvc",
+      "adv_sft",
+      "adv_tealium_env",
+      "adv_trf",
+      "adv_values",
+      "adv_values_session",
+      "adv_vfaffid",
+      "fclink",
+      "umdid"
+    ],
+    "prepaid_unlimited4GSocs": [
+      "SAT4GDEB",
+      "40933"
+    ],
+    "prepaidUsageGroupBlackList": [
+      "bonus"
+    ],
+    "passes_barring_socs": [
+      "BARR_PW"
+    ],
+    "ratingSuccessJourney": [
+      "tariff option unbook",
+      "book offer",
+      "speedbucket book",
+      "tariff option book",
+      "redplus data volume update",
+      "personal data update"
+    ],
+    "ratingScreens": [
+      {
+        "screenName": "bill:overview",
+        "visits": 300
+      },
+      {
+        "screenName": "home",
+        "visits": 300
+      },
+      {
+        "screenName": "home:details",
+        "visits": 300
+      },
+      {
+        "screenName": "tariff:tariff details",
+        "visits": 300
+      },
+      {
+        "screenName": "order status:overview",
+        "visits": 300
+      }
+    ],
+    "directDebitTopUp": {
+      "amounts": [
+        "15",
+        "25",
+        "50"
+      ],
+      "defaultAmount": "15"
+    }
+  },
+  "imageNames": {
+    "prepaid_zeroRating": "mein-callya-100mb-0-.jpg",
+    "prepaid_bookOptionList": "OfferTile_callya_vorteilsangebot-0-.jpg",
+    "prepaid_bookOptionDetail": "Detail_pontis_book_option-0-.jpg",
+    "prepaid_changeTariffList": "OfferTile_tarif_tipp-0-.jpg",
+    "prepaid_changeTariffDetail": "Detail_pontis_tariff_change-0-.jpg",
+    "prepaid_topupList": "OfferTile_auflade_angebot-0-.jpg",
+    "prepaid_topupDetail": "Detail_pontis_top_up-0-.jpg",
+    "prepaid_informativeList": "OfferTile_callya_tipp-0-.jpg",
+    "prepaid_informativeDetail": "Detail_pontis_info-0-.jpg",
+    "prepaid_variousList": "banner_hardware-0-.jpg",
+    "prepaid_variousDetail": "banner_hardware-0-.jpg",
+    "app_background": "background-0-.jpg"
+  },
+  "pontisImages": {
+    "informative": [
+      "pontis_offers/VoV_Pontis1_Informative-0-.jpg",
+      "pontis_offers/VoV_Pontis2_Informative-0-.jpg",
+      "pontis_offers/VoV_Pontis3_Informative-0-.jpg"
+    ],
+    "topup": [
+      "pontis_offers/VoV_Pontis10_Topup-0-.jpg",
+      "pontis_offers/VoV_Pontis11_Topup-0-.jpg",
+      "pontis_offers/VoV_Pontis12_Topup-0-.jpg"
+    ],
+    "changeTariff": [
+      "pontis_offers/VoV_Pontis4_ChangeTarif-0-.jpg",
+      "pontis_offers/VoV_Pontis5_ChangeTarif-0-.jpg",
+      "pontis_offers/VoV_Pontis6_ChangeTarif-0-.jpg"
+    ],
+    "various": [
+      "VoV_neu_pontis_info-0-.jpg",
+      "VoV_neu_pontis_info-0-.jpg",
+      "VoV_neu_pontis_info-0-.jpg"
+    ],
+    "bookOption": [
+      "pontis_offers/VoV_Pontis7_BookOption-0-.jpg",
+      "pontis_offers/VoV_Pontis8_BookOption-0-.jpg",
+      "pontis_offers/VoV_Pontis9_BookOption-0-.jpg"
+    ]
+  },
+  "thresholds": {
+    "serviceEECCTimeDelayMilliseconds": 4000,
+    "inactivityPopupTimeInterval": 2592000,
+    "vodafoneUnlimitedRedPlusMB": 10240,
+    "vodafoneUnlimitedMB": 999000,
+    "forecastGraphThreshold": 3,
+    "postpaid_redeemVoucherWaitingTime": 20,
+    "prepaid_transferStepValue3": 20,
+    "prepaid_transferStepValue2": 10,
+    "prepaid_transferStepValue1": 5,
+    "prepaid_transferStepCount": 3,
+    "postpaid_zeroRatingTimeSpan": 120,
+    "prepaid_zeroRatingTimeSpan": 1440,
+    "bannerDelay": 3,
+    "fingerPrintAssociateRecurrence": 3,
+    "highSpeedThreshold": 20,
+    "prepaidDataRequestRemainingPercentage": 20,
+    "sessionTimeOutInterval": 25,
+    "product_hub_selector.max_products_count": 10
+  },
+  "features": {
+    "eeccPrepaid": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "pontis": {
+      "eligibleCustomerTypes": {
+        "authLevel": "subscriber,ban",
+        "showForTypeFixedNet": false,
+        "showForTypeCable": false,
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": false,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": false,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": false,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": false,
+        "vfplanForTypePUWhite": [
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "personalAgent": {
+      "eligibleCustomerTypes": {
+        "authLevel": "subscriber, ban",
+        "showForTypeFixedNet": true,
+        "showForTypeCable": true,
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "netPerform": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "adjust": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "appDynamics": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "dunning": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "loggedOutOffer": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "inactivityPopup": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": false
+    },
+    "networkExpert": {
+      "eligibleCustomerTypes": {
+        "showForTypeFixedNet": true,
+        "showForTypeCable": true,
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+          "2588620",
+          "2588902",
+          "40013942",
+          "2588743",
+          "2588782",
+          "7279252",
+          "2587423",
+          "2588821",
+          "2588836"
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "forecastGraph": {
+      "eligibleCustomerTypes": {
+        "showForTypePre": false,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": false,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": false,
+        "vfplanForTypePUWhite": [
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "quickCheckFlat": {
+      "eligibleCustomerTypes": {
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+          "2588620",
+          "2588902",
+          "40013942",
+          "2588743",
+          "2588782",
+          "7279252",
+          "2587423",
+          "2588821",
+          "2588836"
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "targetCaching": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": false
+    },
+    "onlineAufladenAsWebview": {
+      "eligibleCustomerTypes": {
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+          "2588620",
+          "2588902",
+          "40013942",
+          "2588743",
+          "2588782",
+          "7279252",
+          "2587423",
+          "2588821",
+          "2588836"
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "homePlusButton": {
+      "eligibleCustomerTypes": {
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+          "2588620",
+          "2588902",
+          "40013942",
+          "2588743",
+          "2588782",
+          "7279252",
+          "2587423",
+          "2588821",
+          "2588836"
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "pu": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": false
+    },
+    "zeroRatingPrepaid": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "zeroRatingPostpaid": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "redeemVoucher": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "vote": {
+      "eligibleCustomerTypes": {
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+          "2588620",
+          "2588902",
+          "40013942",
+          "2588743",
+          "2588782",
+          "7279252",
+          "2587423",
+          "2588821",
+          "2588836"
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "transferCosts": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": false
+    },
+    "zeroRating": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "datenForTaten": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "komfortRegistration": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "smapiSdk": {
+      "cms-guid": "327F84B31831455F9BAE7C30F261A5D4",
+      "cms-id": 1520,
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "hiddenTariffPrice": {
+      "cms-guid": "327F84B31831455F9BAE7C30F261A5D4",
+      "cms-id": 1520,
+      "eligibleCustomerTypes": {
+        "showForTypeFixedNet": true,
+        "vfplanForTypeFixedNetWhite": [
+        ],
+        "vfplanForTypeFixedNetBlack": [
+        ],
+        "socForTypeFixedNetWhite": [
+        ],
+        "socForTypeFixedNetBlack": [
+        ],
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true
+      },
+      "enable": true
+    },
+    "hideAutoTopupKias20": {
+      "cms-guid": "CF4DA9A5702A4CD6BDC683B67F201640",
+      "cms-id": 1339,
+      "eligibleCustomerTypes": {
+      },
+      "enable": false
+    },
+    "LoginWithKabel": {
+      "eligibleCustomerTypes": {
+      },
+      "enable": true
+    },
+    "flurrySDK": {
+      "cms-guid": "CF4DA9A5702A4CD6BDC683B67F201640",
+      "cms-id": 1339,
+      "eligibleCustomerTypes": {
+      },
+      "enable": false
+    },
+    "survey4GCard": {
+      "eligibleCustomerTypes": {
+        "authLevel": "subscriber,ban",
+        "showForTypeFixedNet": false,
+        "showForTypeCable": false,
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "rating": {
+      "eligibleCustomerTypes": {
+        "showForTypeFixedNet": true,
+        "vfplanForTypeFixedNetWhite": [
+        ],
+        "vfplanForTypeFixedNetBlack": [
+        ],
+        "socForTypeFixedNetWhite": [
+        ],
+        "socForTypeFixedNetBlack": [
+        ],
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+          "2588620",
+          "2588902",
+          "40013942",
+          "2588743",
+          "2588782",
+          "7279252",
+          "2587423",
+          "2588821",
+          "2588836"
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true
+    },
+    "marketingTray": {
+      "eligibleCustomerTypes": {
+        "showForTypeFixedNet": true,
+        "showForTypeUnityMedia": true,
+        "unityMediaSubType": [
+        ],
+        "showForTypeCable": true,
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true,
+      "tabletEnabled": true
+    },
+    "simEditNickName": {
+      "eligibleCustomerTypes": {
+        "showForTypeFixedNet": true,
+        "showForTypeCable": true,
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ]
+      },
+      "enable": true,
+      "tabletEnabled": true
+    }
+  },
+  "securedScreens": {
+    "screens": [
+      "data",
+      "mvf_customer_data_details",
+      "overview",
+      "mvf_bill_overview",
+      "archive",
+      "mvf_bill_graph",
+      "mvf_bill_mobile_payment_subscriptions",
+      "vf-webview",
+      "esim",
+      "vf_login",
+      "bill_fixednet",
+      "bill_cable",
+      "contract_data_cable",
+      "documents"
+    ],
+    "screenShotsEnabled": false
+  },
+  "notificationButtonActionGroup": [
+    {
+      "buttonOneId": "deeplink_accept",
+      "buttonTwoId": "deeplink_decline",
+      "actionGroupId": "deeplink"
+    },
+    {
+      "buttonOneId": "external_web_accept",
+      "buttonTwoId": "external_web_decline",
+      "actionGroupId": "external_web"
+    },
+    {
+      "buttonOneId": "internal_web_accept",
+      "buttonTwoId": "internal_web_decline",
+      "actionGroupId": "internal_web"
+    },
+    {
+      "buttonOneId": "app_rating_accept",
+      "buttonTwoId": "app_rating_decline",
+      "actionGroupId": "app_rating"
+    },
+    {
+      "buttonOneId": "ask_for_support_accept",
+      "buttonTwoId": "ask_for_support_decline",
+      "actionGroupId": "ask_for_support"
+    }
+  ],
+  "bgLocationPopupShownMinsDelay": 43200,
+  "loginMethods": {
+    "msisdn": {
+      "enable": true
+    },
+    "sms": {
+      "enable": true,
+      "resendCodeDisableDuration": 30
+    },
+    "web": {
+      "enable": true
+    },
+    "headerEnrichment": {
+      "enable": true
+    }
+  },
+  "meinTarifMapping": [
+    {
+      "contractScenarioIds": [
+        {
+          "contractScenarioId": "A1",
+          "startDate_visible": true,
+          "startDateLabel_de": "startDateLabel_de_a1",
+          "minimumRuntime_visible": true,
+          "minimumRuntimeLabel_de": "minimumRuntimeLabel_de_a1",
+          "lastCancellationDate_visible": false,
+          "lastCancellationDateLabel_de": "lastCancellationDateLabel_de_a1",
+          "endDate_visible": false,
+          "endDateLabel_de": "endDateLabel_de_a1",
+          "additionalText_visible": true,
+          "additionalTextLabel_de": "additionalTextLabel_de_a1"
+        },
+        {
+          "contractScenarioId": "fbs",
+          "startDate_visible": true,
+          "startDateLabel_de": "startDateLabel_de_fbs",
+          "minimumRuntime_visible": true,
+          "minimumRuntimeLabel_de": "minimumRuntimeLabel_de_fbs",
+          "lastCancellationDate_visible": true,
+          "lastCancellationDateLabel_de": "lastCancellationDateLabel_de_fbs",
+          "endDate_visible": true,
+          "endDateLabel_de": "endDateLabel_de_fbs",
+          "additionalText_visible": false,
+          "additionalTextLabel_de": "additionalTextLabel_de_fbs"
+        }
+      ]
+    }
+  ],
+  "loginTabsConfig": {
+    "internetPasswordTab": {
+      "order": 1,
+      "titleKey": "header_enrichment.msisdn_tab"
+    },
+    "accountLoginTab": {
+      "order": 2,
+      "titleKey": "header_enrichment.web_tab"
+    }
+  },
+  "tooltips": [
+    {
+      "backgroundColor": "#007C92",
+      "screenID": "home",
+      "nextPageButtonText": "tooltip_product_switcher_next",
+      "dismissPageButtonText": "tooltip_product_switcher_done",
+      "pages": [
+        {
+          "title": "tooltip_product_switcher_title_1",
+          "body": "tooltip_product_switcher_description_1"
+        },
+        {
+          "title": "tooltip_product_switcher_title_2",
+          "body": "tooltip_product_switcher_description_2"
+        }
+      ],
+      "eligibleCustomerTypes": {
+        "showForTypeFixedNet": true,
+        "showForTypeCable": true,
+        "showForTypePre": true,
+        "vfplanForTypePreWhite": [
+        ],
+        "vfplanForTypePreBlack": [
+        ],
+        "socForTypePreWhite": [
+        ],
+        "socForTypePreBlack": [
+        ],
+        "showForTypeI": true,
+        "vfplanForTypeIWhite": [
+        ],
+        "vfplanForTypeIBlack": [
+        ],
+        "socForTypeIWhite": [
+        ],
+        "socForTypeIBlack": [
+        ],
+        "showForTypeS": true,
+        "vfplanForTypeSWhite": [
+        ],
+        "vfplanForTypeSBlack": [
+        ],
+        "socForTypeSWhite": [
+        ],
+        "socForTypeSBlack": [
+        ],
+        "showForTypeB": true,
+        "vfplanForTypeBWhite": [
+        ],
+        "vfplanForTypeBBlack": [
+        ],
+        "socForTypeBWhite": [
+        ],
+        "socForTypeBBlack": [
+        ],
+        "showForTypePU": true,
+        "vfplanForTypePUWhite": [
+        ],
+        "vfplanForTypePUBlack": [
+        ],
+        "socForTypePUWhite": [
+        ],
+        "socForTypePUBlack": [
+        ],
+        "showForTypeUnityMedia": true,
+        "unityMediaSubType": [
+        ]
+      },
+      "enable": false,
+      "tabletEnabled": false
+    }
+  ],
+  "rootDetection": {
+    "rootDetectionLevel": "warn",
+    "titleText": "vf_device_is_rooted_error_title",
+    "hintText": "vf_device_is_rooted_error_msg"
+  }
+}
